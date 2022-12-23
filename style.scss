@@ -1,0 +1,14 @@
+@import "./variables";
+@import "./mixins";
+@import "./grid";
+@import "./header";
+
+/* mobile (xs)*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
